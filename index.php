@@ -148,7 +148,7 @@ Baby n’a pas la moindre intention d’en faire sa vie. Ce qui a le don d’én
 
 <a href="https://youtu.be/T0TylN8e5hI"><p class="p-spe">Bande Annonce.</p></a>
 
-<p>Bonjour <?php echo $_POST['Nom']; ?> </p>
+<p>Bonjour <?php echo $_GET['nom']; ?> </p>
 
 </body>
 </html>
